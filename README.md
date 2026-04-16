@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @UmeshMadhusankha
-- 👀 I’m interested in tech-related things
-- 🌱 I’m currently learning web development and java
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me ...
-- ⚡ Fun fact: I am eager to learn new things
+- 👀 I’m interested in software development | cloud computing | Machine Learning
+- 🌱 I’m currently learning cybersecurity
+- I am eager to learn new things
 
 <!---
 UmeshMadhusankha/UmeshMadhusankha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
